@@ -1,0 +1,103 @@
+body {
+    background: url('../images/mariobackground2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Mario';
+}
+
+
+.jumbotron {
+    box-sizing: border-box;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 150px;
+    width: 850px;
+    height: 600px;
+    background-color: rgba(0, 204, 255, 0.808);
+}
+
+.mainArea {
+    padding-left: 90px;
+}
+
+.main-button-container {
+    margin-top: 175px;
+    max-width: 610px;
+    margin-left: 50px;
+}
+
+.timer-p {
+    margin-top: 40px;
+}
+
+.answer {
+    padding-top: 7px;
+    height: 45px;
+    color: black;
+    padding-left: 50px;
+    margin-left: 50px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+.answer:hover {
+    background-color: rgb(204, 204, 204);
+}
+
+.img-wrong {
+    margin-top: 40px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+.img-right {
+    margin-top: 40px;
+    width: 200px;
+    margin-left: 100px;
+}
+
+.first-answer {
+    margin-top: 40px;
+  }
+
+h1 {
+    font-size: 46px;
+    color: white;
+    text-shadow: 4px 4px rgb(73, 73, 73);
+}
+  
+.reset-button {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+    text-shadow: 2px 2px black;
+  }
+
+.reset-button:hover {
+    background-color: blue;
+}
+
+.start-button {
+    margin-top: 40px;
+    margin-left: -30px;
+    background-color: red;
+    text-shadow: 2px 2px black;
+}
+
+.summary-correct {
+    margin-top: 40px;
+}
+
+.text-center {
+    padding-left: 50px;
+    font-size: 18px;
+    text-shadow: 2px 2px rgb(204, 204, 204);
+}
+
+@font-face {
+    font-family: 'Mario';
+    src: url(SuperMario256.ttf) format('truetype');
+}
+
