@@ -1,7 +1,5 @@
-# Skyrim Battle
+# Super Mario Trivia
 
-Based off of the Elder Scrolls: Skyrim.
-
-Chose a character and battle your way to victory!
+Answer questions based on Mario. Can you get them all right?
 
 https://jscottwillems.github.io/TriviaGame/
